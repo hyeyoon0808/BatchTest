@@ -1,13 +1,13 @@
-package com.example.batchtest;
+package com.example.SpringBatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BatchTestApplicationTests {
+class SpringBatchApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
